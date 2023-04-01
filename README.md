@@ -8,5 +8,5 @@ Steps to run server -
 Backend server is running on port 4000.
 Frontend is running on port 3000.
 
-Steps to run fronend - 
+Steps to run frontend - 
 1. npm start
